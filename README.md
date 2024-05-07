@@ -1,6 +1,7 @@
 Hello everyone! 👋
 
-I’m a experienced IT Analyst turned blockchain developer. In 2022, I founded Hood-Coin to help small business owners to learn about blockchain technology and how to create value from the products and services they provide. Trading bots are used for many goals on the blockchaing. Here are is a list of some of my arbitrage bot projects.
+My name is Lalo and I'm a Full Stack & Smart Contract Developer! 
+Experienced IT Analyst turned blockchain developer. In 2022, I founded Hood-Coin to help small business owners to learn about blockchain technology and how to create value from the products and services they provide. I'm currently helping brands & companies unlock the power of utility-backed NFTs. I offer a range of services from consultations to custom smart contract development and even deployment & maintenance of systems!
 
 - 👀 I’m interested in Coding DAPPs..
 - 🌱 I’m currently learning Blockchain...
@@ -19,11 +20,9 @@ Twitter Badge Instagram Badge Linkedin Badge Medium Badge Gmail Badge
 💻 Tools & Technologies
 🏗 Frameworks
 React
-NextJs
-NestJS
-Vue
-Docker
+Nodejs
 Hardhat
+
 🧪 Languages
 TypeScript/JavaScript
 Solidity
@@ -37,16 +36,15 @@ Other than that, I also use Python, C/C++ for side projects!
 
 
 🧑🏿‍🤝‍🧑🏽 Community Work
+I've been ...
 
-
-I've been hosting many workshops & talks since 2020! The topics consist of Python workshops, Hacktoberfest events, to blockchain & Web3 topics!
-
-This year, I've been actively speaking at many universities about Web3, onboarding more and more users into the space. This was an initiative by ELVTD.io, KopiDAO & Polygon!
-
-I also work for a school known as 42KL, which is by 42Paris. I handle all things tech-related within the campus, such as automation development, tool deployments, and infrastructure maintenance of the campus!
 
 
 🍻 Fun Facts!
+'Lalo' is Spanish for Edward. 
+Actually have a Cloud Background.
+I built my own car cam with Raspberri PI 4.
 
 
 Buy Me A Coffee
+
