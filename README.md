@@ -46,5 +46,5 @@ Actually have a Cloud Background.
 I built my own car cam with Raspberri PI 4.
 
 
-Buy Me A Coffee
+Buy Me A Beer and I'll tell you anything you wanna here. 
 
