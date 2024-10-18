@@ -1,7 +1,7 @@
 Hello everyone! 👋
 
 My name is Lalo and I'm a Full Stack & Smart Contract Developer! 
-Experienced IT Analyst turned blockchain developer. In 2022, I founded Hood-Coin to help small business owners to learn about blockchain technology and how to create value from the products and services they provide. I'm currently helping brands & companies unlock the power of utility-backed NFTs. I offer a range of services from consultations to custom smart contract development and even deployment & maintenance of systems!
+Experienced IT Analyst turned blockchain developer. In 2022, I founded Hood-Coin to help small business owners to learn about blockchain technology and how to create value from the products and services they provide. My focus is on helping small companies and creative brands learn the power of utility-backed NFTs for thier products or services. I offer a range of services from consultations to custom smart contract development and even deployment & maintenance of systems!
 
 - 👀 I’m interested in Coding DAPPs..
 - 🌱 I’m currently learning Blockchain...
