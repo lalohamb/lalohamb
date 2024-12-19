@@ -24,11 +24,10 @@ Current Focus
 
 📱 Connect With Me
 
-    Twitter Badge
-    Instagram Badge
-    LinkedIn Badge
-    Medium Badge
-    Email: lalo@example.com
+    LinkedIn Profile
+    Indeed Profile
+    Web: LaloHabrickDay@me
+    Email: lalohambrickday@gmail.com
     SMS: 773-934-1510
 
 💻 Tools & Technologies
