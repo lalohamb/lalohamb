@@ -1,50 +1,68 @@
 Hello everyone! 👋
 
-My name is Lalo and I'm a Smart Contract Developer! 
-Experienced IT Analyst turned blockchain developer. In 2022, I founded Hood-Coin to help small business owners to learn about blockchain technology and how to create value from the products and services they provide. My focus is on helping small companies and creative brands learn the power of utility-backed NFTs for thier products or services. I offer a range of services from consultations to custom smart contract development and even deployment & maintenance of systems!
+My name is Lalo (Spanish for Edward), and I'm an Innovative Smart Contract Developer with a background in IT and Cloud Computing!
 
-- 👀 I’m interested in Coding DAPPs..
-- 🌱 I’m currently learning Blockchain...
-- 💞️ I’m looking to collaborate on Contracts...
-- 📫 How to reach me? --> SMS [773-934-1510]
+As an experienced IT Analyst turned Blockchain Developer, I specialize in building creative solutions that leverage blockchain technology to solve real-world problems. From utility-backed NFTs to cutting-edge smart contract development, I focus on turning abstract ideas into impactful systems for businesses and individuals.
+What Makes Me Innovative?
 
-<!---
-lalohamb/lalohamb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
----->
-📱 Connect With Me!
+    🌟 Pioneering Blockchain Solutions: I integrate Crowdsale mechanisms, DAO governance, and NFTs into unique blockchain ecosystems that empower small businesses and creators.
+    🔄 Creative Problem Solving: I design tailored solutions, such as a car cam built with Raspberry Pi 4, and custom smart contracts utilizing advanced technologies like Zero Knowledge Proofs (ZKPs).
+    🌐 Visionary Projects: My HoodCoin (HoodC) ecosystem combines the power of composite tokens, AI, and automation to create a dynamic, growth-oriented blockchain platform.
+    📡 Adaptability: I leverage my Cloud Computing expertise and IT background to seamlessly integrate blockchain systems with modern infrastructures.
 
-Twitter Badge Instagram Badge Linkedin Badge Medium Badge Gmail Badge
+What I Do
+
+    🧠 Educator: I help businesses and brands understand blockchain technology and its value-creating potential.
+    🔧 Developer: I craft and deploy robust smart contracts and decentralized applications tailored to specific needs.
+    🚀 Collaborator: I work with teams to build innovative blockchain systems and explore new use cases for the technology.
+
+Current Focus
+
+    👀 Exploring: Next-generation DApps and Blockchain Governance Structures.
+    🌱 Mastering: Ethereum Smart Contract Development and advanced cryptographic techniques.
+    💞️ Collaborating: On boundary-pushing blockchain projects that challenge the status quo.
+
+📱 Connect With Me
+
+    Twitter Badge
+    Instagram Badge
+    LinkedIn Badge
+    Medium Badge
+    Email: lalo@example.com
+    SMS: 773-934-1510
 
 💻 Tools & Technologies
-🏗 Frameworks
-React
-Nodejs
-Hardhat
+Frameworks
 
-🧪 Languages
-TypeScript/JavaScript
-Solidity
-Python
-C/C++
+    Node.js
+    React
+    Next.js
+    Redux
+    Hardhat
+    CSS
 
+Languages
 
-I work primarily with React frameworks & NestJS. Recently working on plenty of smart contract development, developing custom smart contracts utilizing signatures & ZKPs. Also been heavily touching on DevOps for the past year!
+    Solidity
+    JavaScript/TypeScript
+    Python
+    C/C++
 
-Other than that, I also use Python, C/C++ for side projects!
+Recent Projects
 
+    HoodCoin (HoodC): A composite Ethereum token integrating Crowdsale, DAO governance, and NFT utility to empower small businesses, content creators, and investors.
+    Blockchain Governance for Trusts: Innovating governance models using blockchain technology to support marginalized communities and safeguard their interests.
+    Custom Smart Contracts: Developed contracts with advanced functionalities like digital signatures and ZKPs.
+    DIY Car Cam: Enhanced a python functional car cam system using Raspberry Pi 4, showcasing innovation in IoT solutions.
 
-🧑🏿‍🤝‍🧑🏽 Community Work
-I've been ...
+Recent Studies
+     
+    Dapp University - Gregory 
+    AWS - Intellipaat/Certificate Cloud Basics
 
+Experience 
 
-
-🍻 Fun Facts!
-'Lalo' is Spanish for Edward. 
-Actually have a Cloud Background.
-I built my own car cam with Raspberri PI 4.
-
-
-Buy Me A Beer and I'll tell you anything you wanna here. 
+    Business Analyst - 5+ yrs
+    Data Analyst - 15+ yrs
+    Application Analyst - 15+yrs
 
