@@ -5,7 +5,7 @@ My name is Lalo (Spanish for Edward), and I'm an Innovative Smart Contract Devel
 As an experienced IT Analyst turned Blockchain Developer, I specialize in building creative solutions that leverage blockchain technology to solve real-world problems. From utility-backed NFTs to cutting-edge smart contract development, I focus on turning abstract ideas into impactful systems for businesses and individuals.
 What Makes Me Innovative?
 
-    🌟 Pioneering Blockchain Solutions: I integrate Crowdsale mechanisms, DAO governance, and NFTs into unique blockchain ecosystems that empower small businesses and creators.
+    🌟 Pioneering Blockchain Solutions: I can integrate Crowdsale mechanisms, DAO governance, and NFTs into unique blockchain ecosystems that empower small businesses and creators.
     🔄 Creative Problem Solving: I design tailored solutions, such as a car cam built with Raspberry Pi 4, and custom smart contracts utilizing advanced technologies like Zero Knowledge Proofs (ZKPs).
     🌐 Visionary Projects: My HoodCoin (HoodC) ecosystem combines the power of composite tokens, AI, and automation to create a dynamic, growth-oriented blockchain platform.
     📡 Adaptability: I leverage my Cloud Computing expertise and IT background to seamlessly integrate blockchain systems with modern infrastructures.
