@@ -7,7 +7,7 @@ What Makes Me Innovative?
 
 - 🌟 Pioneering Blockchain Solutions: I can integrate Crowdsale mechanisms, DAO governance, and NFTs into unique blockchain ecosystems that empower small businesses and creators.
 - 🔄 Creative Problem Solving: I design tailored solutions, such as a car cam built with Raspberry Pi 4, and custom smart contracts utilizing advanced technologies like Zero Knowledge Proofs (ZKPs).
-- 🌐 Visionary Projects: My HoodCoin (HoodC) ecosystem combines the power of composite tokens, AI, and automation to create a dynamic, growth-oriented blockchain platform.
+- 🌐 Visionary Projects: My HoodCoin (HOODc) ecosystem combines the power of composite tokens, AI, and automation to create a dynamic, growth-oriented blockchain platform.
 - 📡 Adaptability: I leverage my Cloud Computing expertise and IT background to seamlessly integrate blockchain systems with modern infrastructures.
 
 What I Do
@@ -25,7 +25,7 @@ Current Focus
 
 Recent Projects
 
-HoodCoin (HoodC): A composite Ethereum token integrating Crowdsale, DAO governance, and NFT utility to empower small businesses, content creators, and investors.
+HoodCoin (HOODc): A composite Ethereum token integrating Crowdsale, DAO governance, and NFT utility to empower small businesses, content creators, and investors.
 Blockchain Governance for Trusts: Innovating governance models using blockchain technology to support marginalized communities and safeguard their interests.
 Custom Smart Contracts: Developed contracts with advanced functionalities like digital signatures and ZKPs.
 DIY Car Cam: Enhanced a python functional car cam system using Raspberry Pi 4, showcasing innovation in IoT solutions.
