@@ -22,6 +22,12 @@ Current Focus
     🌱 Mastering: Ethereum Smart Contract Development and advanced cryptographic techniques.
     💞️ Collaborating: On boundary-pushing blockchain projects that challenge the status quo.
 
+🍻 Fun Facts!
+
+    I combine my Cloud Computing expertise with blockchain to create seamless, scalable systems.
+    I’ve been creating medicinal rubs and teas for health and wellness since 2019, blending traditional knowledge with modern innovation.
+    I thrive on building systems that bridge blockchain technology and practical, real-world applications.
+    
 📱 Connect With Me
 
     LinkedIn Profile
@@ -64,4 +70,3 @@ Experience
     Business Analyst - 5+ yrs
     Data Analyst - 15+ yrs
     Application Analyst - 15+yrs
-
