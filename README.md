@@ -25,6 +25,8 @@ Current Focus
 
 Recent Projects
 
+LegacyCode (LEGC): NFT mintnig app that memoriazes family momentos on IPFS for furture generations to enjoy. This project is a decentralized application (dApp) that allows users to create secure, encrypted digital capsules that can be unlocked in the future through various methods. The frontend is built using **Vite + React + TypeScript**, Supabase** and integrates with Web3 wallets for blockchain interactions. Content is stored permanently on **IPFS** using **Pinata**.
+
 HoodCoin (HOODc): A composite Ethereum token integrating Crowdsale, DAO governance, and NFT utility to empower small businesses, content creators, and investors.
 Blockchain Governance for Trusts: Innovating governance models using blockchain technology to support marginalized communities and safeguard their interests.
 Custom Smart Contracts: Developed contracts with advanced functionalities like digital signatures and ZKPs.
