@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cf252722-c03f-45fd-9475-dc34ac53df45" />
+
 👋 Hello, I’m Lalo (Edward Hambrick)
 💠 Data Engineer Specialized in Blockchain Ecosystems
 
