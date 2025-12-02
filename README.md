@@ -5,12 +5,14 @@ Bridging traditional data infrastructure with decentralized innovation
 
 🏷️ Badges
 <p align="left"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Hardhat-F0D30C?style=for-the-badge&logo=ethereum&logoColor=black" /> <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=fire&logoColor=white" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" /> </p>
+
 🧩 About Me
 
 I’m a seasoned IT Consultant and Data Engineer who builds blockchain-integrated data ecosystems.
 My core strength is using data engineering discipline — pipelines, distributed systems, and cloud platforms — to power modern Web3 applications, smart contracts, and on-chain analytics.
 
 I specialize in transforming raw blockchain transactions, logs, and events into structured, queryable, high-integrity data models that support decentralized apps, governance systems, and digital-asset infrastructures.
+
 
 🚀 What I Bring
 🌐 Hybrid Expertise at the Intersection of Web2 & Web3
@@ -20,6 +22,7 @@ I specialize in transforming raw blockchain transactions, logs, and events into 
 Cloud-first engineering mindset with experience in Azure, Supabase, AWS
 
 Blockchain development across Ethereum/EVM ecosystems
+
 
 🧱 Blockchain Data Engineering
 
@@ -31,6 +34,7 @@ Cross-chain analytics and dApp telemetry
 
 Data validation, CI/CD for smart contracts, and simulation testing
 
+
 💡 Innovation & Implementation
 
 Creator of HoodCoin (HOODc) and LegacyCode (LEGC)
@@ -38,6 +42,7 @@ Creator of HoodCoin (HOODc) and LegacyCode (LEGC)
 Designs decentralized governance + trust models
 
 Integrates Web3 with IPFS, automation, and AI
+
 
 🔍 Current Focus
 
@@ -47,31 +52,19 @@ Integrates Web3 with IPFS, automation, and AI
 
 🧠 Core Skills
 Data Engineering
-
 ETL/ELT Pipelines
-
 SQL / NoSQL
-
 Data Warehousing
-
 Stream Processing (Kafka/Spark)
-
 API Design & Integration
-
 Blockchain Development
-
 Solidity
-
 Hardhat • Foundry • Truffle
-
 Web3.js • Ethers.js
-
 Smart Contract Testing
-
 On-chain analytics & event decoding
 
 Languages
-
 Python • JavaScript • TypeScript • SQL • C/C++
 
 Frameworks & Tools
