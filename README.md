@@ -1,65 +1,140 @@
-Hello everyone! 👋
+👋 Hello, I’m Lalo (Edward Hambrick)
+💠 Data Engineer Specialized in Blockchain Ecosystems
 
-My name is Lalo (Spanish for Edward), and I'm an Innovative Smart Contract Developer with a background in IT and Cloud Computing!
+Bridging traditional data infrastructure with decentralized innovation
 
-As an experienced IT Analyst turned Blockchain Developer, I specialize in building creative solutions that leverage blockchain technology to solve real-world problems. From utility-backed NFTs to cutting-edge smart contract development, I focus on turning abstract ideas into impactful systems for businesses and individuals.
-What Makes Me Innovative?
+🏷️ Badges
+<p align="left"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Hardhat-F0D30C?style=for-the-badge&logo=ethereum&logoColor=black" /> <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=fire&logoColor=white" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" /> </p>
+🧩 About Me
 
-- 🌟 Pioneering Blockchain Solutions: I can integrate Crowdsale mechanisms, DAO governance, and NFTs into unique blockchain ecosystems that empower small businesses and creators.
-- 🔄 Creative Problem Solving: I design tailored solutions, such as a car cam built with Raspberry Pi 4, and custom smart contracts utilizing advanced technologies like Zero Knowledge Proofs (ZKPs).
-- 🌐 Visionary Projects: My HoodCoin (HOODc) ecosystem combines the power of composite tokens, AI, and automation to create a dynamic, growth-oriented blockchain platform.
-- 📡 Adaptability: I leverage my Cloud Computing expertise and IT background to seamlessly integrate blockchain systems with modern infrastructures.
+I’m a seasoned IT Consultant and Data Engineer who builds blockchain-integrated data ecosystems.
+My core strength is using data engineering discipline — pipelines, distributed systems, and cloud platforms — to power modern Web3 applications, smart contracts, and on-chain analytics.
 
-What I Do
+I specialize in transforming raw blockchain transactions, logs, and events into structured, queryable, high-integrity data models that support decentralized apps, governance systems, and digital-asset infrastructures.
 
--    🧠 Educator: I help businesses and brands understand blockchain technology and its value-creating potential.
--   🔧 Developer: I craft and deploy robust smart contracts and decentralized applications tailored to specific needs.
--   🚀 Collaborator: I work with teams to build innovative blockchain systems and explore new use cases for the technology.
+🚀 What I Bring
+🌐 Hybrid Expertise at the Intersection of Web2 & Web3
 
-Current Focus
+15+ years in data analytics, business analysis, and application support
 
--   👀 Exploring: Next-generation DApps and Blockchain Governance Structures.
--   🌱 Mastering: Ethereum Smart Contract Development and advanced cryptographic techniques.
--   💞️ Collaborating: On boundary-pushing blockchain projects that challenge the status quo.
+Cloud-first engineering mindset with experience in Azure, Supabase, AWS
 
+Blockchain development across Ethereum/EVM ecosystems
 
-Recent Projects
+🧱 Blockchain Data Engineering
 
-LegacyCode (LEGC): NFT mintnig app that memoriazes family momentos on IPFS for furture generations to enjoy. This project is a decentralized application (dApp) that allows users to create secure, encrypted digital capsules that can be unlocked in the future through various methods. The frontend is built using **Vite + React + TypeScript**, Supabase** and integrates with Web3 wallets for blockchain interactions. Content is stored permanently on **IPFS** using **Pinata**.
+On-chain → warehouse ETL pipelines
 
-HoodCoin (HOODc): A composite Ethereum token integrating Crowdsale, DAO governance, and NFT utility to empower small businesses, content creators, and investors.
-Blockchain Governance for Trusts: Innovating governance models using blockchain technology to support marginalized communities and safeguard their interests.
-Custom Smart Contracts: Developed contracts with advanced functionalities like digital signatures and ZKPs.
-DIY Car Cam: Enhanced a python functional car cam system using Raspberry Pi 4, showcasing innovation in IoT solutions.
+Event-log indexing and smart contract data modeling
 
+Cross-chain analytics and dApp telemetry
 
-🍻 Fun Facts!
+Data validation, CI/CD for smart contracts, and simulation testing
 
--    I combine my Cloud Computing expertise with blockchain to create seamless, scalable systems.
--    I’ve been creating medicinal rubs and teas for health and wellness since 2019, blending traditional knowledge with modern innovation.
--    I thrive on building systems that bridge blockchain technology and practical, real-world applications.
-    
-  
-💻 Tools & Technologies Frameworks
--    Node.js
--    React
--    Next.js
--    Redux
--    Hardhat
--    CSS
+💡 Innovation & Implementation
+
+Creator of HoodCoin (HOODc) and LegacyCode (LEGC)
+
+Designs decentralized governance + trust models
+
+Integrates Web3 with IPFS, automation, and AI
+
+🔍 Current Focus
+
+🔎 Exploring: Blockchain data indexing, decentralized storage, cross-chain state sync
+📊 Building: Governance data models, DAO pipelines, compliant analytics
+🧪 Testing: Smart contract fuzzing, adversarial simulations, on-chain data QA
+
+🧠 Core Skills
+Data Engineering
+
+ETL/ELT Pipelines
+
+SQL / NoSQL
+
+Data Warehousing
+
+Stream Processing (Kafka/Spark)
+
+API Design & Integration
+
+Blockchain Development
+
+Solidity
+
+Hardhat • Foundry • Truffle
+
+Web3.js • Ethers.js
+
+Smart Contract Testing
+
+On-chain analytics & event decoding
 
 Languages
--    Solidity
--    JavaScript/TypeScript
--    Python
--    C/C++
 
-Experience 
--    Business Analyst - 5+ yrs
--    Data Analyst - 15+ yrs
--    Application Analyst - 15+yrs
+Python • JavaScript • TypeScript • SQL • C/C++
 
-📱 Connect With Me
--    Web: LaloHabrickDay@me
--    Email: lalohambrickday@gmail.com
--    SMS: 773-934-1510
+Frameworks & Tools
+
+Node.js • React • Next.js • Redux
+Supabase • IPFS (Pinata) • Docker
+Azure Cloud • GitHub Actions
+
+💼 Featured Projects
+🧬 LegacyCode (LEGC)
+
+A decentralized application for preserving family memories as encrypted IPFS-backed NFT capsules.
+
+Built in Vite + React + TypeScript
+
+Uses Supabase for auth & metadata
+
+Stores all content permanently on IPFS
+
+Integrates multiple unlock mechanisms: passphrase, payment, quiz, geolocation, etc.
+
+💰 HoodCoin (HOODc)
+
+A composite Ethereum token integrating:
+
+Crowdsale mechanisms
+
+DAO governance
+
+NFT utilities
+
+Composite asset logic backed by multiple tokens
+
+This ecosystem blends data lineage, automation, and community wealth structures.
+
+🧾 Blockchain Governance for Trusts
+
+Developing decentralized record-keeping and governance models that protect vulnerable communities through transparent, immutable, equity-based decision systems.
+
+🚗 DIY Car Cam (Raspberry Pi 4 + Python)
+
+An IoT camera system with cloud-based data logging — integrating edge devices, storage pipelines, and real-time analytics.
+
+📚 Professional Background
+
+Data Analyst / Application Analyst – 15+ years
+
+Business Analyst / IT Consultant – 5+ years
+
+Blockchain Developer & Data Engineer – Current focus
+
+🌱 Beyond Tech
+
+I blend technology with creativity — from building blockchain ecosystems to crafting natural teas and medicinal rubs.
+My mission is to create systems that promote equity, sustainability, and community empowerment.
+
+📫 Connect With Me
+
+📧 Email: lalohambrickday@gmail.com
+
+🌐 Web/Portfolio: https://lalohambrickday.me/
+📱 SMS: 773-934-1510
+
+✨ Personal Motto
+
+“Where data integrity meets decentralized trust — I build systems designed to last for generations.”
